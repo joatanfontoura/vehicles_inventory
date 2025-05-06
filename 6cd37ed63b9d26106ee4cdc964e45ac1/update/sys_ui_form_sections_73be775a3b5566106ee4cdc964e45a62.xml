@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="73be775a3b5566106ee4cdc964e45a62" sys_domain="global" table="x_srete_vehic_inve_truck" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>joatan.fontoura</sys_created_by>
+            <sys_created_on>2025-05-06 18:27:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbbe775a3b5566106ee4cdc964e45aed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_srete_vehic_inve_truck" name="x_srete_vehic_inve_truck" sys_domain="global" view="Default view">73be775a3b5566106ee4cdc964e45a62</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_truck" sys_domain="global" view="Default view">4feb2fd23b1566106ee4cdc964e45a1a</sys_ui_section>
+            <sys_updated_by>joatan.fontoura</sys_updated_by>
+            <sys_updated_on>2025-05-06 18:27:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>joatan.fontoura</sys_created_by>
+            <sys_created_on>2025-05-06 18:27:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7be775a3b5566106ee4cdc964e45aee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_srete_vehic_inve_truck" name="x_srete_vehic_inve_truck" sys_domain="global" view="Default view">73be775a3b5566106ee4cdc964e45a62</sys_ui_form>
+            <sys_ui_section caption="Specifications" display_value="Specifications" name="x_srete_vehic_inve_truck" sys_domain="global" view="Default view">7bbe775a3b5566106ee4cdc964e45a61</sys_ui_section>
+            <sys_updated_by>joatan.fontoura</sys_updated_by>
+            <sys_updated_on>2025-05-06 18:27:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_srete_vehic_inve_truck</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>joatan.fontoura</sys_created_by>
+            <sys_created_on>2025-05-06 18:27:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73be775a3b5566106ee4cdc964e45a62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_srete_vehic_inve_truck</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vehicles Inventory" source="x_srete_vehic_inve">6cd37ed63b9d26106ee4cdc964e45ac1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vehicles Inventory">6cd37ed63b9d26106ee4cdc964e45ac1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_73be775a3b5566106ee4cdc964e45a62</sys_update_name>
+            <sys_updated_by>joatan.fontoura</sys_updated_by>
+            <sys_updated_on>2025-05-06 18:27:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

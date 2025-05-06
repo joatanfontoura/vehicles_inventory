@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_srete_vehic_inve.cars_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>cars_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>joatan.fontoura</sys_created_by>
+        <sys_created_on>2025-05-06 13:55:02</sys_created_on>
+        <sys_id>88500b963bdd26106ee4cdc964e45acf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_srete_vehic_inve.cars_user</sys_name>
+        <sys_package display_value="Vehicles Inventory" source="x_srete_vehic_inve">6cd37ed63b9d26106ee4cdc964e45ac1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicles Inventory">6cd37ed63b9d26106ee4cdc964e45ac1</sys_scope>
+        <sys_update_name>sys_user_role_88500b963bdd26106ee4cdc964e45acf</sys_update_name>
+        <sys_updated_by>joatan.fontoura</sys_updated_by>
+        <sys_updated_on>2025-05-06 13:55:02</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vehicles Inventory">6cd37ed63b9d26106ee4cdc964e45ac1</application>
+        <file_path/>
+        <instance_id>8c17c1b64f9bd6009211220f0310c796</instance_id>
+        <instance_name>scoretechbrdemo2</instance_name>
+        <name>sys_user_role_88500b963bdd26106ee4cdc964e45acf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_srete_vehic_inve.cars_user</name><scoped_admin>false</scoped_admin><suffix>cars_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>joatan.fontoura</sys_created_by><sys_created_on>2025-05-06 13:55:02</sys_created_on><sys_id>88500b963bdd26106ee4cdc964e45acf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_srete_vehic_inve.cars_user</sys_name><sys_package display_value="Vehicles Inventory" source="x_srete_vehic_inve">6cd37ed63b9d26106ee4cdc964e45ac1</sys_package><sys_policy/><sys_scope display_value="Vehicles Inventory">6cd37ed63b9d26106ee4cdc964e45ac1</sys_scope><sys_update_name>sys_user_role_88500b963bdd26106ee4cdc964e45acf</sys_update_name><sys_updated_by>joatan.fontoura</sys_updated_by><sys_updated_on>2025-05-06 13:55:02</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-857522477</payload_hash>
+        <record_name>x_srete_vehic_inve.cars_user</record_name>
+        <reverted_from/>
+        <source>24d37ed63b9d26106ee4cdc964e45ac3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan.fontoura</sys_created_by>
+        <sys_created_on>2025-05-06 13:55:02</sys_created_on>
+        <sys_id>4c500b963bdd26106ee4cdc964e45ad3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196a5e0e8540000001</sys_recorded_at>
+        <sys_updated_by>joatan.fontoura</sys_updated_by>
+        <sys_updated_on>2025-05-06 13:55:02</sys_updated_on>
+        <type>Role</type>
+        <update_guid>00500b9657dd26102471f9f3289e2dd3</update_guid>
+        <update_guid_history>00500b9657dd26102471f9f3289e2dd3:-857522477</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_srete_vehic_inve.cars_user">144b0b1e3b5166106ee4cdc964e45aab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan.fontoura</sys_created_by>
+        <sys_created_on>2025-05-06 14:42:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>a7b647f3707c405282d17c8460de8d39</sys_id>
+        <sys_metadata>88500b963bdd26106ee4cdc964e45acf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_srete_vehic_inve.cars_user</sys_name>
+        <sys_package display_value="Vehicles Inventory" source="x_srete_vehic_inve">6cd37ed63b9d26106ee4cdc964e45ac1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vehicles Inventory">6cd37ed63b9d26106ee4cdc964e45ac1</sys_scope>
+        <sys_scope_delete display_value="">06b2ed5f1dae426b89d883e0f2b07b91</sys_scope_delete>
+        <sys_update_name>sys_user_role_88500b963bdd26106ee4cdc964e45acf</sys_update_name>
+        <sys_update_version display_value="sys_user_role_88500b963bdd26106ee4cdc964e45acf">4c500b963bdd26106ee4cdc964e45ad3</sys_update_version>
+        <sys_updated_by>joatan.fontoura</sys_updated_by>
+        <sys_updated_on>2025-05-06 14:42:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1dd98b9a3b5166106ee4cdc964e45add" extends="x_srete_vehic_inve_vehicles" label="Truck" max_length="40" name="x_srete_vehic_inve_truck" type="collection">
+        <element label="Cargo Capacity" max_length="40" name="cargo_capacity" type="integer"/>
+        <element label="Number of axles" max_length="40" name="number_of_axles" type="integer"/>
+    </element>
+</database>

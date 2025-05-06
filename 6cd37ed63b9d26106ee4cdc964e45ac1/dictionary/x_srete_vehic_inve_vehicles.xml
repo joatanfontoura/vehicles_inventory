@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="14653e5a3b9d26106ee4cdc964e45a70" label="Vehicles" max_length="40" name="x_srete_vehic_inve_vehicles" type="collection">
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+        <element choice="1" label="Vehicle Type" max_length="40" name="vehicle_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Motorcycle" sequence="1" value="motorcycle"/>
+                <element inactive_on_update="false" label="Car" sequence="0" value="car"/>
+                <element inactive_on_update="false" label="Truck" sequence="2" value="truck"/>
+            </choice>
+        </element>
+        <element label="License Plate" max_length="40" name="license_plate" type="string"/>
+        <element label="Manufacturer" max_length="40" name="manufacturer" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="VIN" max_length="40" name="vin" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

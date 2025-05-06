@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="da8743d63b5166106ee4cdc964e45a1b" extends="x_srete_vehic_inve_vehicles" label="Motorcycle" max_length="40" name="x_srete_vehic_inve_motorcycle" type="collection">
+        <element label="Has sidecar" max_length="40" name="has_sidecar" type="boolean"/>
+        <element label="Engine displacement" max_length="40" name="engine_displacement" type="integer"/>
+    </element>
+</database>

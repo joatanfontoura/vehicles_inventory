@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>joatan.fontoura</sys_created_by>
+        <sys_created_on>2025-05-06 13:09:01</sys_created_on>
+        <sys_id>4ac5f29a3b9d26106ee4cdc964e45a9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cec5be1a3b9d26106ee4cdc964e45a9b</sys_name>
+        <sys_package display_value="Vehicles Inventory" source="x_srete_vehic_inve">6cd37ed63b9d26106ee4cdc964e45ac1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicles Inventory">6cd37ed63b9d26106ee4cdc964e45ac1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4ac5f29a3b9d26106ee4cdc964e45a9a</sys_update_name>
+        <sys_updated_by>joatan.fontoura</sys_updated_by>
+        <sys_updated_on>2025-05-06 13:09:01</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

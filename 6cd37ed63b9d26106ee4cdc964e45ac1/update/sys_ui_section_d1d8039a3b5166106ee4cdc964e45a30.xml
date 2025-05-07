@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>99d8039a3b5166106ee4cdc964e45a33</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>7840d0ee3b9566106ee4cdc964e45a41</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>model</element>
             <position>1</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>9dd8039a3b5166106ee4cdc964e45a32</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>3440d0ee3b9566106ee4cdc964e45a42</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>license_plate</element>
             <position>2</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>15d8039a3b5166106ee4cdc964e45a33</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>b840d0ee3b9566106ee4cdc964e45a42</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>year</element>
             <position>3</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>19d8039a3b5166106ee4cdc964e45a32</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>3040d0ee3b9566106ee4cdc964e45a43</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,27 +60,27 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>1dd8039a3b5166106ee4cdc964e45a34</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>b440d0ee3b9566106ee4cdc964e45a43</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>vehicle_type</element>
+            <element>sys_class_name</element>
             <position>5</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>91d8039a3b5166106ee4cdc964e45a32</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>3c40d0ee3b9566106ee4cdc964e45a43</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>status</element>
             <position>6</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>95d8039a3b5166106ee4cdc964e45a34</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>b040d0ee3b9566106ee4cdc964e45a44</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>vin</element>
             <position>7</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>95d8039a3b5166106ee4cdc964e45a31</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>3840d0ee3b9566106ee4cdc964e45a44</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>manufacturer</element>
             <position>8</position>
             <sys_created_by>joatan.fontoura</sys_created_by>
-            <sys_created_on>2025-05-06 14:32:16</sys_created_on>
-            <sys_id>11d8039a3b5166106ee4cdc964e45a34</sys_id>
+            <sys_created_on>2025-05-06 19:44:20</sys_created_on>
+            <sys_id>bc40d0ee3b9566106ee4cdc964e45a44</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_srete_vehic_inve_motorcycle" sys_domain="global" view="Default view">d1d8039a3b5166106ee4cdc964e45a30</sys_ui_section>
             <sys_updated_by>joatan.fontoura</sys_updated_by>
-            <sys_updated_on>2025-05-06 14:32:16</sys_updated_on>
+            <sys_updated_on>2025-05-06 19:44:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

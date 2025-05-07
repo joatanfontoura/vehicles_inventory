@@ -12,7 +12,11 @@
         <element label="License Plate" max_length="40" name="license_plate" type="string"/>
         <element label="Manufacturer" max_length="40" name="manufacturer" type="string"/>
         <element choice="1" label="Status" max_length="40" name="status" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="In maintenance" sequence="2" value="In maintanence"/>
+                <element inactive_on_update="false" label="In use" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Retired" sequence="1" value="2"/>
+            </choice>
         </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>

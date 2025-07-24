@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">089562f1ad3212104f341fade16c74b9</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>joatan.fontoura</sys_created_by>
+        <sys_created_on>2025-05-06 19:15:10</sys_created_on>
+        <sys_id>e599c0a63b9566106ee4cdc964e45a06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Vehicles Inventory" source="x_srete_vehic_inve">6cd37ed63b9d26106ee4cdc964e45ac1</sys_package>
+        <sys_updated_by>joatan.fontoura</sys_updated_by>
+        <sys_updated_on>2025-05-06 19:15:10</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
